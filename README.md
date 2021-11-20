@@ -18,7 +18,7 @@ Clone the repo, install dependancies, run the "npm start" command in the termina
 ![teamgen](https://user-images.githubusercontent.com/68351446/142727962-c9577c14-a89c-4202-916f-917d994c4b1e.png)
 
 ## Demo
-https://watch.screencastify.com/v/hoLDMhSVlZjkVCnEjGug
+
 
 ## Contributing
 Sean Dillon
